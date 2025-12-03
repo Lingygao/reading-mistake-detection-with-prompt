@@ -14,6 +14,11 @@ This repository contains resources for the paper:
 by Lingyun Gao, Cristian Tejedor-Garcia, Catia Cucchiarini, and Helmer Strik
  
 📣 _Accepted at [Interspeech 2025](https://www.interspeech2025.org)!_
+
+ 
+## Acknowledgements
+ 
+This work is part of the project Responsible AI for Voice Diagnostics (RAIVD) with file number NGF.1607.22.013 of the research program NGF AiNed Fellowship Grants, which is financed by the Dutch Research Council (NWO).
  
 ## Citation
  
