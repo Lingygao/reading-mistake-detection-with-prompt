@@ -3,7 +3,7 @@ Code associated with the paper Improving Child Speech Recognition and Reading Mi
 
 # To do
 - whisper prompt
-- llm prompt
+- llm prompt removing sensitve info
 - evaluation
 
 # Improving Child Speech Recognition and Reading Mistake Detection by Using Prompts
