@@ -2,9 +2,8 @@
 Code associated with the paper Improving Child Speech Recognition and Reading Mistake Detection by Using Prompts
 
 # To do
-- whisper prompt
 - llm prompt removing sensitve info
-- evaluation
+- evaluation unit test
 
 # Improving Child Speech Recognition and Reading Mistake Detection by Using Prompts
  
